@@ -1,2 +1,2 @@
 # password-checker
-A password checker in python
+A password generator in python.
